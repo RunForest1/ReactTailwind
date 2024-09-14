@@ -10,10 +10,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        'almost-white': 'hls(0, 0%, 98%)',
-        'medium-gray': 'hls(0, 0%, 41%)',
-        'almost-black': 'hls(0, 0%, 8%)'
-      }
+        'almost-white': 'hsl(0, 0%, 98%)',
+        'medium-gray': 'hsl(0, 0%, 41%)',
+        'almost-black': 'hsl(0, 0%, 8%)',
+      },
     },
   },
   plugins: [],
